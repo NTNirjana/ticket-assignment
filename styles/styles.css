@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400..900&family=Raleway:wght@400..900&display=swap');
+
+
+.raleway-font {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cou-title {
+    color: rgba(3, 7, 18, 0.80);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 36px;
+}
+
+.cou-p1 {
+    color: rgba(3, 7, 18, 0.80);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+}
+
+.cou-p2 {
+    color: rgba(3, 7, 18, 0.50);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.new-coupon {
+    color: #030712;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 180%;
+}
+
+.coupon-l2 {
+    color: rgba(3, 7, 18, 0.40);
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 180%;
+}
+
+.couple-coupon {
+    color: #030712;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 180%;
+}
+
+.logo {
+    color: #030712;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.btn-icon {
+    display: inline-flex;
+    padding: 16px 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 12px;
+    border: 1px solid rgba(29, 209, 0, 0.40);
+    background: rgba(29, 209, 0, 0.10);
+}
